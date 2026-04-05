@@ -1,0 +1,4 @@
+telethon==1.42.0
+requests
+beautifulsoup4
+nest_asyncio
